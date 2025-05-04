@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Storm Jacket",
+      "description": "Waterproof and windproof jacket.",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Sailing Boots",
+      "description": "Non-slip, waterproof sailing boots.",
+      "price": 80
+    },
+    {
+      "id": 3,
+      "name": "Rain Hat",
+      "description": "Water-resistant and breathable rain hat.",
+      "price": 25
+    }
+  ]
+  
